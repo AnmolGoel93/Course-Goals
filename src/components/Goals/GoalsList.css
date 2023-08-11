@@ -1,0 +1,7 @@
+.goals-list {
+  width: 40rem;
+  max-width: 95%;
+  margin: 3rem auto;
+  list-style: none;
+  padding: 0;
+}
